@@ -1,5 +1,38 @@
 # CampusBite
 Campus Canteen Pre-Ordering System 
+
+## 3. Features & User Roles
+### Contribution: Pushkar
+
+CampusBite provides separate features for students and
+canteen staff to make food ordering and management easier.
+
+### Student Features
+
+- Student registration and login.
+- View food items by category.
+- Filter Veg and Non-Veg food items.
+- Add items to cart and manage quantities.
+- Select pickup time slots.
+- Complete mock payment checkout.
+- Receive a unique pickup token.
+- Track order status.
+- View previous orders.
+
+### Canteen Staff Features
+
+- Staff login and dashboard.
+- View incoming orders in a kitchen queue.
+- Update order status.
+- Manage food item availability.
+- View daily sales summary.
+- Monitor completed orders.
+
+### User Roles
+
+1. Student – Can browse menus, place orders, and track them.
+2. Staff – Can manage menu availability and process orders.
+
 ## 4. Technologies & System Architecture
 ### Contribution: Aditya
 
