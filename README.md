@@ -40,3 +40,52 @@ Node.js + Express.js Backend
 MongoDB Database
 
 ---
+## 5. Database Design & API Overview
+### Contribution: Arnav
+
+CampusBite uses MongoDB to store and manage application
+data through collections.
+
+### Main Database Collections
+
+1. Users
+   Stores student and staff information, login credentials,
+   and user roles.
+
+2. Menu Items
+   Stores food names, categories, prices, dietary tags,
+   and availability status.
+
+3. Time Slots
+   Stores pickup slot details, order capacity, and
+   availability.
+
+4. Orders
+   Stores student orders, ordered items, total amount,
+   pickup token, payment status, and order status.
+
+### Important API Endpoints
+
+#### Authentication APIs
+
+- POST /api/auth/register
+- POST /api/auth/login
+
+#### Menu APIs
+
+- GET /api/menu
+- PATCH /api/menu/:id/toggle
+
+#### Time Slot APIs
+
+- GET /api/slots
+
+#### Order APIs
+
+- POST /api/orders
+- GET /api/orders/my-orders
+- GET /api/orders/kitchen-queue
+- PATCH /api/orders/:id/status
+
+These APIs help the frontend communicate with the backend
+and perform different application operations.
