@@ -1,6 +1,39 @@
 # CampusBite
 Campus Canteen Pre-Ordering System 
 
+## 2. Problem Statement & Project Scope
+### Contribution: Vedanti
+
+### Problem Statement
+
+College canteens often experience long queues during peak
+hours. Manual food ordering and payment processes can cause
+delays, crowding, and difficulty in managing multiple orders.
+
+Students may have to wait for a long time just to place an
+order and collect their food. Canteen staff may also face
+challenges in managing orders during busy hours.
+
+### Proposed Solution
+
+CampusBite provides an online pre-ordering system where
+students can browse the menu, place food orders, select
+pickup time slots, and track their order status.
+
+Canteen staff can manage incoming orders, update food
+availability, and monitor daily sales through a dashboard.
+
+### Project Scope
+
+- Online food pre-ordering for college students.
+- Food menu browsing and category selection.
+- Pickup time slot selection.
+- Order and pickup token management.
+- Order status tracking.
+- Canteen staff order and menu management.
+- Basic daily sales summary.
+
+
 ## 3. Features & User Roles
 ### Contribution: Pushkar
 
