@@ -1,11 +1,29 @@
 # CampusBite
 Campus Canteen Pre-Ordering System 
+## 1. Project Introduction
+### Contribution: Riya
+
+CampusBite is a web-based Campus Canteen Pre-Ordering System
+developed as part of our Full Stack Development (FSD) project.
+
+The system allows students to browse the canteen menu, order
+food online, select a convenient pickup time slot, and track
+their orders. It also helps canteen staff manage food
+availability and process orders efficiently.
+
+### Project Objectives
+
+- Reduce waiting time at the college canteen.
+- Make food ordering easier and more convenient.
+- Help canteen staff manage orders efficiently.
+- Provide convenient pickup time selection.
+- Improve the overall canteen ordering experience.
 
 ## 2. Problem Statement & Project Scope
 ### Contribution: Vedanti
 
 ### Problem Statement
-
+git add README.md
 College canteens often experience long queues during peak
 hours. Manual food ordering and payment processes can cause
 delays, crowding, and difficulty in managing multiple orders.
