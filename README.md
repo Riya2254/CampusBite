@@ -173,6 +173,37 @@ data through collections.
 
 These APIs help the frontend communicate with the backend
 and perform different application operations.
+
+## 6. Project Setup, Testing & Team Contributions
+### Contribution: Anish
+
+### Project Setup
+
+To run CampusBite locally, follow these general steps:
+
+1. Clone the CampusBite GitHub repository.
+2. Install Node.js and MongoDB.
+3. Install frontend and backend dependencies.
+4. Configure the database connection and environment variables.
+5. Start the backend server.
+6. Start the frontend application.
+
+Detailed setup instructions will be added as the project
+development progresses.
+
+### Testing
+
+The application will be tested to verify that its
+main features work correctly.
+
+- Authentication testing – Verify student and staff login.
+- Menu testing – Verify menu display and filtering.
+- Cart testing – Verify item quantity and price calculation.
+- Order testing – Verify order placement and pickup tokens.
+- Order tracking testing – Verify order status updates.
+- Dashboard testing – Verify sales summary and order data.
+
+
 ## Project Introduction
 
 CampusBite is a Campus Canteen Pre-Ordering System developed
